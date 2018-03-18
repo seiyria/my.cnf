@@ -8,6 +8,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="tmx" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="main" type="TypeScript" />
       <mapping pattern="steffen-defense-point" type="TypeScript" />
